@@ -1,0 +1,18 @@
+{
+  "name": "youtub-project",
+  "version": "1.0.0",
+  "description": "youtube sample project ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "siraj",
+    "kha"
+  ],
+  "license": "ISC",
+  "author": "siraj khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
