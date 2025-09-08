@@ -2,7 +2,7 @@
   "name": "youtub-project",
   "version": "1.0.0",
   "description": "youtube sample project ",
-  "types": "modules",
+  "types": "module",
   "keywords": [
     "javascript",
     "backend",
